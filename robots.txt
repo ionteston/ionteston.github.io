@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionteston.github.io/sitemap.html.gz
+Sitemap: https://ionteston.github.io/app/sitemap.html.gz
+Sitemap: https://ionteston.github.io/assets/sitemap.html.gz
+Sitemap: https://ionteston.github.io/css/sitemap.html.gz
+Sitemap: https://ionteston.github.io/includes/sitemap.html.gz
+Sitemap: https://ionteston.github.io/item/sitemap.html.gz
+Sitemap: https://ionteston.github.io/src/sitemap.html.gz
